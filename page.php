@@ -54,7 +54,7 @@ else:
 		<div class="col-lg-12" style="z-index:3;">
 			<div class="col-lg-10 col-md-12 col-xs-6" >
 
-<input type="text" id="who" name="referal" placeholder="Search..." value="" class="who form-control"  autocomplete="off">
+<input type="text" id="who" name="referal" placeholder="Search by keywords" value="" class="who form-control"  autocomplete="off">
 <ul class="search_result" style="z-index: 0; position: absolute;"></ul>
 		</div>
 
